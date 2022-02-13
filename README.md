@@ -6,4 +6,4 @@ Product name - PassMNG
 
 Author - KVO / Koban_san / Kobanoss
 
-Status - in development
+Status - Done
